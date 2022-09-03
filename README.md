@@ -1,2 +1,4 @@
 # research
 This repository contains codes and files of my undergraduate research regarding Classification of group composition based on diversity-cohesiveness space. 
+
+Abstract: Diversity and cohesiveness are two  group characteristics in small group social dynamics. These two descriptors can be studied in terms of individual members' personality states which undeniably affects group relations and activity. In this paper, a small group dynamics model based on the two-dimensional personality states of its members is created. Group diversity, cohesiveness, and average behavior score were quantified, obtained, and plotted for small groups with five members. Through the model, classification of group composition in the diversity-cohesiveness space is determined. By delineating group composition, the group dynamics that incorporates interaction term can be analyzed in the context of accomplishing a shared goal.
