@@ -1,2 +1,2 @@
 # research
-This repository contains codes and files of my undergraduate research regarding classification of group composition based on diversity-cohesiveness space.
+This repository contains codes and files of my undergraduate research regarding Classification of group composition based on diversity-cohesiveness space. It is a study of group composition in terms of personality states. It was found that generation of behavioral vector components from certain uniform distributions results in specific regions occupied in the diversity-cohesiveness space, which in turn serves to classify group composition. 
